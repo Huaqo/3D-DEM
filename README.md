@@ -1,4 +1,4 @@
 # 3D-DEM
 
-- 'make build'
-- 'make run'
+- `make build`
+- `make run`
